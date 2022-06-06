@@ -133,3 +133,4 @@ ACE patcher also allows you to password protect patches to export password prote
 * [Harmony](https://github.com/pardeike/Harmony)  - This is used for patching the assemblies
 * [JitFreezer](https://github.com/okieeee/JIT-Freezer) - This is used to deal with anti-dump when loading packed files
 * [DarkUI](https://github.com/RobinPerris/DarkUI) - This is used for the dark theme
+* [BataBO](https://github.com/BataBo) - For Making this
